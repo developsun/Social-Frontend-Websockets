@@ -1,0 +1,65 @@
+.friend-search {
+  background-color: #2e3743;
+  outline: none;
+  padding: 5px 20px;
+  color: #6a7172;
+  width: 100%;
+  border: none;
+  border-radius: 9px;
+}
+
+.bg-semi-dark {
+  background-color: #1d242e;
+  border-radius: 9px;
+}
+.friend-list-container {
+  min-height: 90vh;
+
+  padding: 15px;
+}
+
+.user-list-name {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.user-list-time {
+  font-size: 8px;
+}
+.user-list-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.user-list-text {
+  font-size: 8px;
+}
+
+.login-button {
+  background-color: #ed1c24;
+  color: white;
+  padding: 5px 20px;
+  border: none;
+  font-weight: 600;
+  border-radius: 23px;
+  outline: none;
+  width: 100%;
+}
+.login-text {
+  width: 100%;
+  /* border: none; */
+  outline: none;
+  background: #2f3a4a;
+  padding: 5px;
+  padding-left: 5px;
+  border-radius: 23px;
+  color: lightgray;
+  border: 1px solid #5d6063;
+}
+.login-form {
+  background-color: #20252d;
+  padding: 26px;
+  border-radius: 10px;
+  margin-top: 230px;
+  box-shadow: 2px -1px 69px 35px #ed1c2426;
+}

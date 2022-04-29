@@ -1,0 +1,67 @@
+.friend-search {
+  background-color: #2e3743;
+  outline: none;
+  padding: 5px 20px;
+  color: #6a7172;
+  width: 100%;
+  border: none;
+  border-radius: 9px;
+}
+
+.bg-semi-dark {
+  background-color: #1d242e;
+  border-radius: 9px;
+}
+.friend-list-container {
+  min-height: 90vh;
+
+  padding: 15px;
+}
+
+.user-list-name {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.user-list-time {
+  font-size: 8px;
+}
+.user-list-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.user-list-text {
+  font-size: 8px;
+}
+
+.my-message{
+  background-color: lightgray;
+  padding:10px 15px;
+  color:black;
+  border-radius: 15px 0px 15px 0px;
+
+}
+
+.otherparty-message{
+  background-color: #007bff;
+  padding:10px 15px;
+  color:white;
+  border-radius: 0px 15px 0px 15px;
+
+}
+
+.chat-text-input-container{
+  width:95%;
+  float:left;
+  position: absolute;
+  bottom:5px;
+}
+.chat-send-button-container{
+  width:5%;
+  float:right;
+  position: absolute;
+  bottom:5px;
+
+  right: 0px;
+}
